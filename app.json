@@ -1,0 +1,11 @@
+{
+    "name": "super-sniffle",
+    "description": "For SMR",
+    "env": {
+        "PASSWORD": {
+            "description": "PASSWORD",
+            "value": "password"
+        }
+    },
+    "stack": "container"
+}
